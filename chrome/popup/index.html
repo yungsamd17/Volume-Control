@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Volume Control</title>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>Volume Control</h1>
+			<p>Adjust volume up to 200%</p>
+		</header>
+		<form id="controls">
+			<input type="number" min="0" max="200" step="1"><input type="range" min="0" max="200" step="1"><button id="stopBtn" title="Reset"><i class="fa-solid fa-rotate-right"></i></button>
+		</form>
+		<div class="footer">
+			<div class="tooltip"><i class="fa-solid fa-question"></i> How it works
+			  <span class="tooltiptext"><p class="info">Click the <i class="fa-solid fa-rotate-right"></i> button to reset volume on the current tab.</p><p><em>For more info right click on the extension icon for <b>Options</b>.</em></p></span>
+			</div>
+		</div>
+	</body>
+</html>

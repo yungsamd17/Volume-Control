@@ -1,0 +1,18 @@
+body{
+	width: 500px;
+	height: auto;
+	background-color: #18181b;
+	color: #fff;
+	font-size: 1rem;
+	font-family: Arial, sans-serif;
+}
+
+::selection {
+  background-color: #38383f;
+}
+
+a {
+	color: #1a73e8;
+	font-weight: bold;
+	text-decoration: none;
+}
