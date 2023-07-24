@@ -18,7 +18,7 @@ Volume Control allows you to set different volume levels per tab in chrome. The 
 The add-on requires the [tabCapture API](https://developer.chrome.com/extensions/tabCapture) and therefore it only works on Google Chrome or Chromium-based browsers (e.g. Brave, Edge, Opera).
 
 # Install
-## Download: [**HERE**](https://github.com/yungsamd17/Volume-Control/releases)👈
+## Download: [**HERE**](https://github.com/yungsamd17/Volume-Control/releases/latest/download/Volume-Control.zip)👈
 
 Here is a short guide how to install an unpacked extension on Google Chrome or Chromium-based browsers (e.g. Brave, Edge, Opera).
 
