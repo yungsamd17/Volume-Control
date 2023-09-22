@@ -2,19 +2,15 @@
   <img src="https://raw.githubusercontent.com/yungsamd17/Volume-Control/master/chrome/icons/64.png">
   <h1><b>Volume Control</b></h1>
 </p>
-Volume Control allows you to set different volume levels per tab in chrome. The volume levels are mapped exponentially this means 50 is a gain of 0.25, 100 is a gain of 1, and 200 is a gain of 4. It remembers preveously selected volume levels for each domain and use those when loading up the page again.
+
+**Volume Control** allows you to set volume levels per tab in Chrome. You can boost volume is up to **200%** and you adjust it by **5%** per step on range slider. It remembers preveously selected volume levels for each domain and use those when loading up the page again.
+
 
 
 ## [**Download**](https://github.com/yungsamd17/Volume-Control/releases/latest/download/Volume-Control.zip)
 
-<details>
-<summary>Screenshots</summary><p>
-
 [![Screenshot Brave YouTube](screenshots/youtube.png)](https://youtu.be/qguEGR5BK2k)
 
-[![Screenshot Brave Twitch](screenshots/forsen.png)](https://youtu.be/-GEHyAfV4OI)
-
-</details>
 
 ### How to Install
 Here is a short guide how to install an unpacked extension on **Google Chrome or Chromium-based browsers** (*e.g. Brave, Edge, Opera*).
@@ -29,10 +25,6 @@ Here is a short guide how to install an unpacked extension on **Google Chrome or
 5. Done, Enjoy.
 
 
-## Credits
+### Credits
 
-Forked from [RedKenrok/Browser-TabVolume](https://github.com/RedKenrok/Browser-TabVolume) ❤️
-
-## License
-
-[ISC license](https://github.com/RedKenrok/Browser-TabVolume/blob/master/LICENSE)
+Forked from [RedKenrok/Browser-TabVolume](https://github.com/RedKenrok/Browser-TabVolume)

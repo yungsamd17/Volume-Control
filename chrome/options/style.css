@@ -16,3 +16,8 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 }
+a:hover {
+	color: #104fa2;
+	font-weight: bold;
+	text-decoration: none;
+}
