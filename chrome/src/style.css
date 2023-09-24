@@ -13,6 +13,7 @@ body {
 	background: var(--background);
 	font-family: Arial, sans-serif;
 	display: inline-block;
+	user-select: none;
 }
 :root {
 	color-scheme: dark;
