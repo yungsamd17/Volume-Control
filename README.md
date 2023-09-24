@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/yungsamd17/Volume-Control/master/chrome/icons/64.png">
+  <img src="https://raw.githubusercontent.com/yungsamd17/Volume-Control/master/chrome/src/icons/64.png">
   <h1><b>Volume Control</b></h1>
 </p>
 
