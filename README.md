@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/yungsamd17/Volume-Control/master/extension/src/icons/64.png">
-  <h1><b>Volume Control</b></h1>
-</p>
+# <img src="extension/src/icons/64.png" width="38" align="left" /> Volume Control
 
 **Volume Control** allows you to set volume levels per tab in Chrome. You can boost volume is up to **200%** and you adjust it by **5%** per step on range slider. It remembers preveously selected volume levels for each domain and use those when loading up the page again.
 
