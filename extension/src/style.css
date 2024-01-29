@@ -108,10 +108,6 @@ body {
     box-shadow: 0 0 0 7px var(--accent-active-focus);
 }
 
-.volume-range:focus::-webkit-slider-thumb {
-    box-shadow: 0 0 0 7px var(--accent-active-focus);
-}
-
 
 /* Reset Volume BUTTON */
 
